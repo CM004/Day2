@@ -12,3 +12,7 @@ output/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore dependency metadata
+package.json
+package-lock.json
